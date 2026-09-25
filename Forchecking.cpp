@@ -87,4 +87,5 @@
     int *ptr2 = &b;
     *ptr = *ptr2;
     cout<<*ptr<<" "<<*ptr2;
+    return 0;
 }
